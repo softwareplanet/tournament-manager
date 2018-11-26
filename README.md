@@ -15,8 +15,8 @@ Our tournament management system is a unique web service that can handle a pleth
 
 ## Technologies of Implementation
 
-* Angular https://angular.io
-* Firebase https://firebase.google.com
+* Angular https://angular.io/
+* Firebase https://firebase.google.com/
 
 ## Customer & developer Information
 
